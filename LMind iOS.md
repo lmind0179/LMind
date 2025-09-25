@@ -1,5 +1,3 @@
-Of course. Here is a user guide for the LMind app, written in English.
-
 ## **Welcome to LMind! 💡**
 
 Welcome to **LMind**, your new tool for visual thinking and organization. LMind helps you structure your thoughts, ideas, and projects by creating intuitive mind maps. Turn complex information into a clear, hierarchical map that's easy to understand and navigate.
